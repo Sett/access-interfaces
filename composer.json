@@ -1,0 +1,19 @@
+{
+  "name": "funcraft/access-interfaces",
+  "description": "Access interfaces only",
+  "type": "library",
+  "keywords": ["access", "funcraft"],
+  "authors":[
+    {
+      "name": "Funcraft",
+      "email": "what4me@yandex.ru",
+      "homepage": "http://funcraft.ru",
+      "role": "developer"
+    }
+  ],
+  "autoload": {
+    "psr4": {
+      "funcraft\\access\\": ""
+    }
+  }
+}
